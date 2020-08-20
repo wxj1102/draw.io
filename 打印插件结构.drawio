@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T01:23:25.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36 Edg/84.0.522.61" etag="QeCaSgaxOc0WGrVi7NNK" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-20T01:24:07.019Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36 Edg/84.0.522.61" etag="oQHQBuXRhMCHWegNIcxb" version="13.6.3" type="github">
   <diagram id="CNCVtCK-7Xj8NK3qWna4" name="第 1 页">
     <mxGraphModel dx="632" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,6 +15,9 @@
         </mxCell>
         <mxCell id="iUVQh0ZkDzZZy0ABxMZa-1" value="对象转换" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
           <mxGeometry x="120" y="360" width="310" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="iUVQh0ZkDzZZy0ABxMZa-2" value="数据获取" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="310" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
