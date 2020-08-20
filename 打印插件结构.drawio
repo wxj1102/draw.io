@@ -1,23 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2020-08-19T07:25:53.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36 Edg/84.0.522.61" etag="TlVjmqDPSVzgujS6CqJF" version="13.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-20T01:23:25.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36 Edg/84.0.522.61" etag="QeCaSgaxOc0WGrVi7NNK" version="13.6.3" type="github">
   <diagram id="CNCVtCK-7Xj8NK3qWna4" name="第 1 页">
-    <mxGraphModel dx="942" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="632" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eKBay4dHtpdEemFwv7GU-10" value="dnr数据分页处理服务" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
+        <mxCell id="eKBay4dHtpdEemFwv7GU-10" value="dnr数据处理" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" parent="1" vertex="1">
           <mxGeometry x="120" y="440" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="eKBay4dHtpdEemFwv7GU-11" value="Lcz数据分页处理服务" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
+        <mxCell id="eKBay4dHtpdEemFwv7GU-11" value="Lcz数据处理" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" parent="1" vertex="1">
           <mxGeometry x="280" y="440" width="150" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="eKBay4dHtpdEemFwv7GU-12" value="分页对象转打印对象服务" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
-          <mxGeometry x="120" y="360" width="150" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="eKBay4dHtpdEemFwv7GU-13" value="分页对象转打印对象服务" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
-          <mxGeometry x="280" y="360" width="150" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="eKBay4dHtpdEemFwv7GU-14" value="打印对象绘制服务" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
+        <mxCell id="eKBay4dHtpdEemFwv7GU-14" value="打印对象绘制" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" parent="1" vertex="1">
           <mxGeometry x="120" y="280" width="310" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="iUVQh0ZkDzZZy0ABxMZa-1" value="对象转换" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99ffff;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="310" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
